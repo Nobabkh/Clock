@@ -243,7 +243,7 @@ int main(void)
 				}
 				if(hour > 12)
 				{
-					hour = 0;
+					hour = 1;
 				}
 				if(minute > 59)
 				{
